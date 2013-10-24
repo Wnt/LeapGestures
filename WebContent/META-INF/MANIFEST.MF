@@ -1,3 +1,7 @@
 Manifest-Version: 1.0
+Implementation-Title: LeapGestures
+Implementation-Version: 0.0.1
+Vaadin-Package-Version: 1
+Vaadin-Widgetsets: org.vaadin.leapgestures.LeapgesturesWidgetset
 Class-Path: 
 
