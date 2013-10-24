@@ -20,7 +20,8 @@ public class LeapGestures extends AbstractExtension {
 		public void swipeGestureStart(float x, float y, float z) {
 			float absX = Math.abs(x);
 			float absY = Math.abs(y);
-			float absZ = Math.abs(x);
+			float absZ = Math.abs(z);
+			
 			// if X component is the biggest
 			if (absX > absY && absX > absZ) {
 				// if x is positive

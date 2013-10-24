@@ -7007,3 +7007,11 @@ body .leapgestures.v-app .v-app-loading {
 	background: transparent repeat-x;
 	background-image: url(../reindeer/window/img/black/content-bg.png);/** sprite-ref: black-verticals; sprite-alignment: repeat */
 }
+
+.leapgestures .color_one {
+	background-color: #A368D5;
+}
+
+.leapgestures .color_two {
+	background-color: #FFE273;
+}

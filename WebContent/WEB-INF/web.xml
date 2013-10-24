@@ -14,7 +14,7 @@
 			<description>
 			Vaadin UI class to use</description>
 			<param-name>UI</param-name>
-			<param-value>org.vaadin.leapgestures.LeapgesturesUI</param-value>
+			<param-value>org.vaadin.leapgestures.test.LeapgesturesUI</param-value>
 		</init-param>
 		<init-param>
 			<description>
@@ -26,7 +26,7 @@
 			<description>
 			Application widgetset</description>
 			<param-name>widgetset</param-name>
-			<param-value>org.vaadin.leapgestures.LeapgesturesWidgetset</param-value>
+			<param-value>org.vaadin.leapgestures.test.LeapgesturesTestWidgetset</param-value>
 		</init-param>
 	</servlet>
 	<servlet-mapping>
