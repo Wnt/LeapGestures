@@ -114,4 +114,4 @@ public class AddontestUI extends UI {
 }
 ```
 
-For a more comprehensive example, see src/test/java/org/vaadin/template/demo/DemoUI.java
+For a more comprehensive example, see /leapgestures-demo/src/main/java/org/vaadin/leapgestures/demo/DemoUI.java
